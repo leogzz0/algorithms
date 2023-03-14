@@ -1,0 +1,2 @@
+This is a sample text file for testing the code.
+It has multiple lines, and includes spaces and line breaks.
