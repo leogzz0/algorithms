@@ -35,9 +35,16 @@ The program outputs a string of length 2n that is a hexadecimal representation o
 
 To test this algorithm run compiler and then copy in terminal:
 ```
-./main < case-1.txt 16
-./main < case-2.txt 64
-./main < case-3.txt 24
+./main case-1.txt 16
+./main case-2.txt 64
+./main case-3.txt 24
+```
+
+example of output:
+```
+E4D1F2BA0F997A03C79D690C88C25428
+68690A686F772061726520796F753F0A66696E65207468616E6B20796F7520616E6420796F753F0A696D2066696E650A30303030303030303030303030303030
+248F4783B645015C7BDF8FE605B7B02169C40840F6F32595
 ```
 
 ## Functions
