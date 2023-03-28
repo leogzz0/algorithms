@@ -1,3 +1,10 @@
+/*
+algoritmos avanzados
+by leogzz0
+nombre: leonardo gonzalez guerra
+fecha: 28/03/2023
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -109,3 +116,13 @@ int main()
     }
     return 0;
 }
+
+/*
+ *
+ *     ("`-''-/").___..--''"`-._
+ *      `6_ 6  )   `-.  (     ).`-.__.`)
+ *      (_Y_.)'  ._   )  `._ `. ``-..-'
+ *    _..`--'_..-_/  /--'_.' ,'
+ *   (il),-''  (li),'  ((!.-'      @leogzz0
+ *
+ */
