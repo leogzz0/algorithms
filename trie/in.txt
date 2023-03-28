@@ -1,0 +1,12 @@
+6
+hola
+adios
+casa
+carro
+perro
+gato
+4
+hola
+casa
+perro
+conejo
